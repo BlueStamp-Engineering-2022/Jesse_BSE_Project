@@ -1,5 +1,8 @@
 ﻿# Weather Cylinder
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+A device that changes colors when the weather changes. You put an led inside of a jar and fill the jar with cotton balls, and then you 3d print a lid for it that is able to store all the wiring and circuits.
+
+# Hot Shot Hoops
+A device that tracks the amount of shots made on a certain basketball hoop. It makes use of two ultrasonic sensors placed above and below the hoop to determine whether a shot is made. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
