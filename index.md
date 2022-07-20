@@ -29,7 +29,7 @@ My first milestone was the completion of the code and circuits for my weather in
 # Hot Shot Hoops Project
 
 # Final Milestone
-My final milestone is making modifications for aethetics. The modifications that I made was adding a rainbow color mode to the LED rings which could also be activated by alexa. I also added a second led ring, which was the hardest part of this modification because I am not good with circuits. Adding the second led din't come with any instructions like the first led did, so I had to research and learn how to do it myself. The second led also required me to add code to the code that I was given, therefore requiring me to understand how the code worked, and how the led worked.
+My final milestone is putting everything together. For this milestone, I connected all the parts and put them on the basket to make a working basket tracker. To do this I needed to do alot of small tweaking and calibrating for everything, for exmaple, adding wire length and adusting the distance each ultrasonic sensor scanned. 
 612573869/video_to_markdown/images/youtube--4030622fb505.jpg)](https://www.youtube.com/watch?v=k_4YPajX6Os&ab_channel=BlueStampEng "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
