@@ -52,5 +52,4 @@ My first milestone was the completion of the code and circuits for my weather in
 # Starter Project
 My starter project was Simon Says. Everything needed for the simon says came in a set and instructions, so I didn't need to do any research. However, I still gained some valuable experience from making it, for example, it was my first time soldering, so it was great practice for my future projects.
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb)
-[Starter Project Video](https://www.youtube.com/watch?v=S9Sv7wB2I7I&t=2s&ab_channel=BlueStampEng "Starter Project")
+[![milestone2](https://i3.ytimg.com/vi/S9Sv7wB2I7I/maxresdefault.jpg)](https://www.youtube.com/watch?v=S9Sv7wB2I7I&ab_channel=BlueStampEng)
