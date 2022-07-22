@@ -37,8 +37,7 @@ My final milestone is putting everything together. For this milestone, I connect
 # Second Milestone
 My second milestone was to 3d print the lid for the jar. This was by far the hardest part of the project because of the difficulty of designing the exact lid I wanted with the correct shape and dimensions. In order to do this I had to learn how to use a software called Fusion 360 and had to watch many outube videos to learn how to use the tools in the software to make what I wanted. One part I particularly stuggled with was finding the right height for the lid because I needed a height that was enough to store all the circuits, but also not tall to the point of it looking funny.
 
-![T8dkONNrMv0-HD](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)
-[(https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")]
+[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb)
 
 # First Milestone
 My first milestone was the completion of the code and circuits for my weather indicator. I had quite a bit of trouble making the circuit even though it was a very simple one because I had never made a circuit before. I didn't even know how a breadboard worked, so I had to research that as well. After many attemps and fixes I finally made a working circuit, and since the code given only needed a few tweaks I already had the main part of this milestone finished. Next, I had to connect the device to the weather by using a software called ifttt. At first, I had trouble with this, but I realized after a while that it was because my code wasn't flashed, so after I did that I was quickly able to complete this step.
