@@ -8,7 +8,7 @@ A device that tracks the amount of shots made on a certain basketball hoop. It m
 |:--:|:--:|:--:|:--:|
 | Jesse L | Monta Vista High School | Software Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLV7TaJlLQOLMnYxhgvmn_ZGFELDyKx6VSiR-w98lDa6aUWEAHAUAY2848Yrf8LAYzwQRX_B5_vFB6_ZheMTN6riSCUcBkKEqajMbKIjR-h205yOk7MeBXs1hL7LWNfpB33P30Odi3J3tsnpeyKTQxSTqg=w1374-h1832-no?authuser=0)
 # Weather Indicator Project
 
 # Final Milestone
