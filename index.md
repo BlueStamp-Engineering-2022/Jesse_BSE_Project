@@ -14,12 +14,12 @@ A device that tracks the amount of shots made on a certain basketball hoop. It m
 # Final Milestone
 My final milestone is making modifications for aethetics. The modifications that I made was adding a rainbow color mode to the LED rings which could also be activated by alexa. I also added a second led ring, which was the hardest part of this modification because I am not good with circuits. Adding the second led din't come with any instructions like the first led did, so I had to research and learn how to do it myself. The second led also required me to add code to the code that I was given, therefore requiring me to understand how the code worked, and how the led worked.
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=k_4YPajX6Os&ab_channel=BlueStampEng)
+[![milestone2](https://i3.ytimg.com/vi/k_4YPajX6Os/maxresdefault.jpg)](https://www.youtube.com/watch?v=k_4YPajX6Os)
 
 # Second Milestone
 My second milestone was to 3d print the lid for the jar. This was by far the hardest part of the project because of the difficulty of designing the exact lid I wanted with the correct shape and dimensions. In order to do this I had to learn how to use a software called Fusion 360 and had to watch many outube videos to learn how to use the tools in the software to make what I wanted. One part I particularly stuggled with was finding the right height for the lid because I needed a height that was enough to store all the circuits, but also not tall to the point of it looking funny.
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb)
+[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=T8dkONNrMv0)
 
 # First Milestone
 My first milestone was the completion of the code and circuits for my weather indicator. I had quite a bit of trouble making the circuit even though it was a very simple one because I had never made a circuit before. I didn't even know how a breadboard worked, so I had to research that as well. After many attemps and fixes I finally made a working circuit, and since the code given only needed a few tweaks I already had the main part of this milestone finished. Next, I had to connect the device to the weather by using a software called ifttt. At first, I had trouble with this, but I realized after a while that it was because my code wasn't flashed, so after I did that I was quickly able to complete this step.
@@ -33,23 +33,19 @@ My first milestone was the completion of the code and circuits for my weather in
 # Final Milestone
 My final milestone is putting everything together. For this milestone, I connected all the parts and put them on the basket to make a working basket tracker. To do this I needed to do alot of small tweaking and calibrating for everything, for exmaple, adding wire length and adusting the distance each ultrasonic sensor scanned. 
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=k_4YPajX6Os&ab_channel=BlueStampEng)
+[![milestone2](https://i3.ytimg.com/vi/fu7qSabx9eY/maxresdefault.jpg)](https://www.youtube.com/watch?v=fu7qSabx9eY)
 
 # Second Milestone
 My second milestone was to 3d print the lid for the jar. This was by far the hardest part of the project because of the difficulty of designing the exact lid I wanted with the correct shape and dimensions. In order to do this I had to learn how to use a software called Fusion 360 and had to watch many outube videos to learn how to use the tools in the software to make what I wanted. One part I particularly stuggled with was finding the right height for the lid because I needed a height that was enough to store all the circuits, but also not tall to the point of it looking funny.
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb)
+[![milestone2](https://i3.ytimg.com/vi/H_WsIx51kxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=H_WsIx51kxQ)
 
 # First Milestone
 My first milestone was the completion of the code and circuits for my weather indicator. I had quite a bit of trouble making the circuit even though it was a very simple one because I had never made a circuit before. I didn't even know how a breadboard worked, so I had to research that as well. After many attemps and fixes I finally made a working circuit, and since the code given only needed a few tweaks I already had the main part of this milestone finished. Next, I had to connect the device to the weather by using a software called ifttt. At first, I had trouble with this, but I realized after a while that it was because my code wasn't flashed, so after I did that I was quickly able to complete this step.
 
-![Circuit-Diagram](https://lh3.googleusercontent.com/X1PLKYyrgNIJBl-n5fcO_OokOMQTEmd82vq_fqebEhZl5cdjKDhooXfn5VYmXcX0jK6a2yJdEGP4c3pwmiiKcreexYxqDTF06_hBLFu3A3kpimQw27nJ8i343QcKvCMqTIj6f54LH5RhTtsE6ZB8AyWdngxsmaXb2EjdmvIElhYUiqMxrUdeXXvKDtIJ74BKK-DU0svLZgvUwIFcJi9vwrGRv_qi0pePNG-Unb2AyvlL-MFZWmyqOFQpigvQyfy3x4ivGLJjhthnperExcyXoIyYtgtH5KDmkTSeeReY9LxEZCDdHISYzCyJUiAjhK1LEWYCU4Tw3JBNNlRcw3UklGDedZSGgq1eFSneJ6rVNhlVcg-jvH5WEHwog2Sdbm0Ys73m5T89BD4I-H4MZfGC3RdoePZl-vi1fNBRaM-I8WsxZamNFTGm9q8QsNq-7cOPn7Wsu8Rk_9EObPxGjWLKgGPIbmZrTTNCeI1IqSMC2FqAUpTvhZkMhaAJRjexTL5HvOmQ0jwCbiOfVCIkc8D3zj7hZmNYhIUYTTABYJmQD_HhfRGKLfhBoMr0c5OIDqP66CLLwejR1YRR3onDXeOuJgs2iy9G-6pA9t8jD4mH0Hhe9OQhb7CuLc6xbB-0hD9cP4gTZtG03GwVcXzu0rgKn6Fk2dAXtTdB49fKwmqUyBJLq0det7jX4UBQvm48m-pgwfLHzp67OS97qWfkFgD4dgABqx-fbGAc86q6nhX2LIZSAxEmN3g5iyTCZpySDrBBzHop6J0oMMLQlg6T2wTx4Fk94tIbMByS1EAqpUnyUTE9FRgyZpPtMpoRCqdfow=w2594-h1604-no?authuser=0)
+![Circuit Diagram](https://lh3.googleusercontent.com/X1PLKYyrgNIJBl-n5fcO_OokOMQTEmd82vq_fqebEhZl5cdjKDhooXfn5VYmXcX0jK6a2yJdEGP4c3pwmiiKcreexYxqDTF06_hBLFu3A3kpimQw27nJ8i343QcKvCMqTIj6f54LH5RhTtsE6ZB8AyWdngxsmaXb2EjdmvIElhYUiqMxrUdeXXvKDtIJ74BKK-DU0svLZgvUwIFcJi9vwrGRv_qi0pePNG-Unb2AyvlL-MFZWmyqOFQpigvQyfy3x4ivGLJjhthnperExcyXoIyYtgtH5KDmkTSeeReY9LxEZCDdHISYzCyJUiAjhK1LEWYCU4Tw3JBNNlRcw3UklGDedZSGgq1eFSneJ6rVNhlVcg-jvH5WEHwog2Sdbm0Ys73m5T89BD4I-H4MZfGC3RdoePZl-vi1fNBRaM-I8WsxZamNFTGm9q8QsNq-7cOPn7Wsu8Rk_9EObPxGjWLKgGPIbmZrTTNCeI1IqSMC2FqAUpTvhZkMhaAJRjexTL5HvOmQ0jwCbiOfVCIkc8D3zj7hZmNYhIUYTTABYJmQD_HhfRGKLfhBoMr0c5OIDqP66CLLwejR1YRR3onDXeOuJgs2iy9G-6pA9t8jD4mH0Hhe9OQhb7CuLc6xbB-0hD9cP4gTZtG03GwVcXzu0rgKn6Fk2dAXtTdB49fKwmqUyBJLq0det7jX4UBQvm48m-pgwfLHzp67OS97qWfkFgD4dgABqx-fbGAc86q6nhX2LIZSAxEmN3g5iyTCZpySDrBBzHop6J0oMMLQlg6T2wTx4Fk94tIbMByS1EAqpUnyUTE9FRgyZpPtMpoRCqdfow=w2594-h1604-no?authuser=0)
+[![milestone2](https://i3.ytimg.com/vi/Y6VIULtvJDg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Y6VIULtvJDg)
 
-[![milestone2](https://user-images.githubusercontent.com/108752070/179270916-31c0c7ba-3e3f-44bc-b2c3-3fd0355e09ce.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb)
-
-
-![uqvBG90iwFw-HD](https://user-images.githubusercontent.com/108752070/179270733-7b7be9d8-dec2-4288-bd0d-55864d1c1d23.jpg)
-[First Milestone Video](https://www.youtube.com/watch?v=uqvBG90iwFw&ab_channel=BlueStampEng "First Milestone")
 
 # Starter Project
 My starter project was Simon Says. Everything needed for the simon says came in a set and instructions, so I didn't need to do any research. However, I still gained some valuable experience from making it, for example, it was my first time soldering, so it was great practice for my future projects.
